@@ -1,5 +1,7 @@
 # wagtailmedia
 
+### Forked to introduce Wagtail/Django 2 capability until Torchbox version is updated
+
 A module for Wagtail that provides functionality similar to `wagtail.wagtaildocs` module,
 but for audio and video files.
 
